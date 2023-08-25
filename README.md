@@ -1,4 +1,4 @@
-# iTorch
+# iTorch#####
 iTorch is an [IPython](http://ipython.org) Kernel for Torch, with plotting (using [Bokeh.js](http://bokeh.pydata.org/docs/gallery.html) plots) and visualization of images, video and audio
 
 ## Features
